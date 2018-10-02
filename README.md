@@ -9,7 +9,7 @@ Uses the `natefinch/lumberjack` and `jimlawless/whereami` libraries for rolling 
 * `miner.log` - rolling log of mining process
 
 ## Fire it up
-* Make geth:
+* Build custom geth:
   * `cd /go-ethereum; make geth`
   * Make note of path to the newly compiled geth binary. (i.e. `/Users/Mac/Documents/kaleidotest/go-ethereum/build/bin/geth`). We'll reference this binary in future steps as `$CustomGeth`
 * Initialize bootnode:
