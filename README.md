@@ -29,6 +29,6 @@ Uses the `natefinch/lumberjack` and `jimlawless/whereami` libraries for rolling 
   * validation
   * promotion
   * discovery by worker, categorized as remote or local
-  * sorted by nonce and gas price 
+  * sorted by nonce and gas price via `TransactionsByPriceAndNonce` heap struct
   * commit
   * execution
