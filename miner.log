@@ -1200,3 +1200,35 @@
 
 2018/10/02 18:21:34 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
 
+2018/10/02 18:21:39 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
+
+2018/10/02 18:21:39 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
+
+2018/10/02 18:21:44 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
+
+2018/10/02 18:21:44 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
+
+2018/10/02 18:21:49 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
+
+2018/10/02 18:21:49 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
+
+2018/10/02 18:21:54 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
+
+2018/10/02 18:21:54 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
+
+2018/10/02 18:21:59 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
+
+2018/10/02 18:21:59 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
+
+2018/10/02 18:22:04 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
+
+2018/10/02 18:22:04 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
+
+2018/10/02 18:22:09 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
+
+2018/10/02 18:22:09 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
+
+2018/10/02 18:22:14 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
+
+2018/10/02 18:22:14 Worker found (0) pending txns from pool: map[] @ File: worker.go  Function: github.com/ethereum/go-ethereum/miner.(*worker).commitNewWork Line: 933
+
