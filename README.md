@@ -2,7 +2,7 @@
 This is a forked geth 1.8 w/ step-by-step logging placed to trace the mining process. 
 
 * `/go-ethereum` - modified geth with mining logging
-* `/devnet` - PoA geth network containing (2) nodes and (1) bootnode. Configured using the modified geth bin 
+* `/devnet` - Pre-configured PoA geth network containing (2) nodes and (1) bootnode. Network was configured using modified geth bin.
 * `miner.log` - rolling log of mining process
 
 ## Fire it up
