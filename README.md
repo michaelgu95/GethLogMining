@@ -1,6 +1,9 @@
 # KaleidoProject
-This is a forked geth 1.8 w/ step-by-step logging placed to trace the mining process. 
+This is a forked geth 1.8 w/ step-by-step logging in place to trace the mining process. 
 
+Uses the `natefinch/lumberjack` and `jimlawless/whereami` libraries for rolling logs and code tracing.
+
+## Structure
 * `/go-ethereum` - modified geth with mining logging
 * `/devnet` - Pre-configured PoA geth network containing (2) nodes and (1) bootnode. Network was configured using modified geth bin.
 * `miner.log` - rolling log of mining process
